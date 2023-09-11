@@ -22,7 +22,7 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "admob",
+      "main_ad": "google_ad_manager",
       "backup_ad": "none",
       "admob_banner_unit_id": "ca-app-pub-3161134311460828/6768549402",
       "admob_interstitial_unit_id": "ca-app-pub-3161134311460828/8703366038",
